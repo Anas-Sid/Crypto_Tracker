@@ -12,12 +12,7 @@
 
 ---
 
-## 🚀 Live Demo
 
-🌐 [Click here to view live](https://your-live-site.vercel.app)  
-> _(Replace with actual link)_
-
----
 
 ## 🧩 Features
 
@@ -29,11 +24,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-| Home Page | Search in Action |
-|-----------|------------------|
-| ![home](./assets/screenshot1.png) | ![search](./assets/screenshot2.png) |
 
 > 📸 Add your actual screenshots inside an `/assets` folder.
 
